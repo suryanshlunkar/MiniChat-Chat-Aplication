@@ -1,6 +1,8 @@
 # MiniChat
 
 > A Realtime Chat Application
+>
+> Created By Suryansh Lunkar, IIT Bombay, 3rd year Mechanical Engineeering Student
 
 A simple realtime chat apoplication made using [React JS](https://reactjs.org/docs/getting-started.html), a JavaScript library to make awesome UI by Facebook, [Node JS](https://nodejs.org/en/docs), [Express JS](https://expressjs.com/en/api.html) and [MongoDB](https://docs.mongodb.com/).
 
