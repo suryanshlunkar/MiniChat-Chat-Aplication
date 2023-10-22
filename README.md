@@ -58,7 +58,7 @@ MongoDB, Express, React, Node, Socket.IO, Chakra-UI
 
 ### Clone the repository:
 ```
-git clone -
+git clone https://github.com/suryanshlunkar/MiniChat-Chat-Aplication.git
 ```
 
 ### Env Variables
